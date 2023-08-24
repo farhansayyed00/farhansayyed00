@@ -8,7 +8,22 @@ I'm Farhan Sayyed, a passionate frontend web developer with expertise in HTML, C
 - 🌐 I specialize in frontend development to craft engaging user experiences.
 - 🎨 I'm passionate about design and making websites look pixel-perfect.
 
-### 💼 My Work
+💼 My Work
+Here are some of the projects I'm proud of:
+
+My first project - This was my first project i made a survey form using html inspried by geeksforgeeks.
+link-https://github.com/farhansayyed00/project1
+
+
+
+
+[Project Name] - Brief description of the project. Link to the repository.
+
+Project Image
+
+[Project Name] - Brief description of the project. Link to the repository.
+
+Project Image
 
 
 ### 🌱 What I'm Learning
